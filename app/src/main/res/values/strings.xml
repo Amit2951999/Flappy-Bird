@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Flappy Bird</string>
+    <string name="todo">TODO</string>
+    <string name="play">Play</string>
+    <string name="khel_khatam">Khel Khatam!!</string>
+</resources>
